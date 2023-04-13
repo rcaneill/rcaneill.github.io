@@ -11,7 +11,6 @@ layout: default
 
 I am a PhD student in physical oceanography, at the Department of Marine Sciences, Gothenburg University, Sweden.
 
-
 <article style="width:50%;">
 Last blog post: 
 {% for post in site.posts limit:1 %}
@@ -22,4 +21,11 @@ Last blog post:
 {% endfor %}
 </article>
 
+# Publications
 
+<div w3-include-html="https://raw.githubusercontent.com/rcaneill/cv/build_html/publications.html"></div> 
+
+
+<script>
+includeHTML();
+</script> 
