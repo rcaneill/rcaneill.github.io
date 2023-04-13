@@ -1,0 +1,25 @@
+---
+title: Romain Caneill
+description: PhD Student in Physical Oceanography
+permalink: /
+layout: default
+---
+
+<img alt="Picture of Romain Caneill" src="/assets/images/romain.jpg" width="40%" style="float: right; margin: 0 0 0 15px;">
+
+# About Me
+
+I am a PhD student in physical oceanography, at the Department of Marine Sciences, Gothenburg University, Sweden.
+
+
+<article style="width:50%;">
+Last blog post: 
+{% for post in site.posts limit:1 %}
+    {{ post.title }}
+    <div class="meta">{{ post.date | date_to_string }}</div>
+    <div class="meta"><i>{{ post.description_long }}</i></div>
+    <a href="{{ post.url }}">Read more...</a>
+{% endfor %}
+</article>
+
+

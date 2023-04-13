@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+
+    <header>
+      {% include navigation.html %}
+      <p>{{ page.description }}</p>
+    </header>
+
+    <main>
+
+      {{ content }}
+
+    </main>
+
+    <footer>
+      <div>
+        <div style="float: left;">Mastodon: <a href="https://fediscience.org/web/@rcaneill">@rcaneill@fediscience.org</a></div>
+        <div style="float: right;">email: <a>romain.caneill@gu.se</a></div>
+        <nobr style="text-align: center;">Github: <a href="https://github.com/rcaneill">rcaneill</a></nobr>
+      </div>
+      <p>
+        <!-- Based on Simple.css and Jekyll.  -->
+        
+        <br>
+        Except where otherwise noted, content on this site is licensed under a
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">
+          CC BY-SA 4.0 License
+        </a>
+      </p>
+    </footer>
+
+  </body>
+</html>

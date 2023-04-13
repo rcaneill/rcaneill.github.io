@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+
+- name: Blog
+  link: /blog
+
+- name: Open-source projects
+  link: /code
+
+- name: CV
+  link: https://raw.githubusercontent.com/rcaneill/cv/build/cv.pdf
+
+- name:  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/CC_BY-SA_icon.svg" alt="CC-BY-SA icon"4></img>
+  link: https://creativecommons.org/licenses/by-sa/4.0/
