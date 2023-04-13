@@ -28,4 +28,5 @@ Last blog post:
 
 <script>
 includeHTML();
-</script> 
+</script>
+
