@@ -9,6 +9,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: get bibliography
+        run: wget https://raw.githubusercontent.com/rcaneill/cv/build_html/publications.html -O _includes/publications.html
       - name: deploy on pre_build branch
         uses: peaceiris/actions-gh-pages@v3
         with:

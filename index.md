@@ -23,10 +23,4 @@ Last blog post:
 
 # Publications
 
-<div w3-include-html="https://raw.githubusercontent.com/rcaneill/cv/build_html/publications.html"></div> 
-
-
-<script>
-includeHTML();
-</script>
-
+{% include publications.html %}
