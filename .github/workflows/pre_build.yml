@@ -13,5 +13,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./github_deploy
+          publish_dir: .
           publish_branch: pre_build
+          enable_jekyll: true
+          force_orphan: true
