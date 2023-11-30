@@ -24,3 +24,9 @@ Last blog post:
 # Publications
 
 {% include publications.html %}
+
+## Miscellaneous
+
+* PhD Thesis.
+<br>From alpha to beta ocean: Exploring the role of surface buoyancy fluxes and seawater thermal expansion in setting the upper ocean stratification
+<br>[Available in my website](phd_thesis)
