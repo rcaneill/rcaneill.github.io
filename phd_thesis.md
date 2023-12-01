@@ -42,7 +42,7 @@ You can click on the cover below to access the pdf version of the thesis, or fol
 </a>
 
 
-
+The defence will be held on January 18 in Gothenburg; a zoom link is to be announced.
 
 
 The content of the thesis is licenced under a Creative Common Attribution-ShareAlike 4.0
