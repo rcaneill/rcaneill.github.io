@@ -1,6 +1,6 @@
 ---
 title: Romain Caneill
-description: PhD Student in Physical Oceanography
+description: Doctor in Physical Oceanography
 permalink: /
 layout: default
 ---
@@ -9,7 +9,7 @@ layout: default
 
 # About Me
 
-I am a PhD student in physical oceanography, at the Department of Marine Sciences, Gothenburg University, Sweden.
+I am a doctor in physical oceanography, now working as a postdoc within the [SASIP project](https://sasip-climate.github.io/), in Grenoble, France.
 
 <article style="width:50%;">
 Last blog post: 
