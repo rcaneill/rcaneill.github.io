@@ -1,6 +1,6 @@
 name: pre_build_website
 on:
-  workflow_dispatch
+  workflow_dispatch:
   push:
     branches:
       - master
