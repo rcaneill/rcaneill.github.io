@@ -5,7 +5,7 @@ permalink: /
 layout: default
 ---
 
-<img alt="Picture of Romain Caneill" src="/assets/images/romain.jpg" width="40%" style="float: right; margin: 0 0 0 15px;">
+<img alt="Picture of Romain Caneill" src="/assets/images/romain.jpg" width="40%" style="float: right; margin: 0 0 0 15px; aspect-ratio: 1 / 1;">
 
 # About Me
 
