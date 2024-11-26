@@ -8,8 +8,8 @@ description_long: "I gave an online seminar whithin the SASIP project, presentin
 
 {{ page.description_long }}
 
-[The slides can be found on my website](/assets/statics/romain_caneill_2024-11-26_SASIP_seminar_slides.pdf).
-If you are interested, I also [share the LaTex sources on GitLab](https://gitlab.com/rcaneill/2024-11-26_SASIP_seminar_slides).
+[The slides can be found on my website](/assets/statics/romain_caneill_2024-11-26_seminar_SASIP_slides.pdf).
+If you are interested, I also [share the LaTex sources on GitLab](https://gitlab.com/rcaneill/2024-11-26_seminar_SASIP).
 I am available [by email](/contact)  if you want to reach me.
 
 ### Abstract
