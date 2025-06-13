@@ -28,6 +28,9 @@ contributing to Python packages like xnemogcm, xgcm, and gsw-xarray.
 Beyond academia, I have a professional diploma in carpentry,
 I play the guitar, and I love mountains.
 
+I am one of the co-founder of the French non-profit association
+"Prêt d’Objets à Meylan", which runs a library of stuff (in French
+*objethèque*): <https://pom-asso.fr>.
 
 <article style="width:50%;">
 Last blog post: 
