@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+
+    <header>
+      {% include navigation.html %}
+    <h2>{{ page.title }}</h2>
+      <p>{{ page.description }}</p>
+    </header>
+
+    <main>
+
+      {{ content }}
+
+    </main>
+
+    <footer>
+      <p>
+        <a rel="me" href="https://fediscience.org/@rcaneill"></a>
+        <!-- Based on Simple.css and Jekyll.  -->
+        
+        <br>
+        Except where otherwise noted, content on this site is licensed under a
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">
+          CC BY-SA 4.0 License
+        </a>
+      </p>
+    </footer>
+
+  </body>
+</html>
