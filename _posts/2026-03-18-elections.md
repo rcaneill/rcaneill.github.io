@@ -8,6 +8,9 @@ description_long: "Dans le cadre des élections municipales à Meylan, j’ai en
 
 {{ page.description_long }}
 
+[Note du vendredi 20 mars]
+J’ai eu Madame Hours au téléphone, malgré des questions techniques basées sur des faits étayés, Madame Hours a refusé de répondre à mes questions d’ici dimanche. Elle a accepté de me répondre après les élections.
+[Fin de note]
 
 ## Email
 
