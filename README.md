@@ -8,3 +8,9 @@ Romain Caneill website
 pdftoppm input.pdf output.png -png -r 300
 ```
 Adjust `300` for the dpi
+
+### Serve
+
+```
+./serve.sh
+```
