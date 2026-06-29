@@ -32,7 +32,7 @@ I am one of the co-founder of the French non-profit association
 "Prêt d’Objets à Meylan", which runs a library of stuff (in French
 *objethèque*): <https://pom-asso.fr>.
 
-Je suis co-listier de la liste [AIMEylan](https://www.aimeylan2026.fr/) dans le cadres des élections
+J’ai été co-listier de la liste [AIMEylan](https://www.aimeylan2026.fr/) dans le cadres des élections
 municipales française de 2026, dans la ville de Meylan.
 
 <article style="width:50%;">
