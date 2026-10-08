@@ -9,7 +9,7 @@ description_long: "I have a talk (in French) for the French Reproducible Science
 {{ page.description_long }}
 
 
-[Les slides sont sur mon site](/assets/statics/romain_caneill_2026-10-08_reproducibilite_science_ouverte_logiciels_libres).
+[Les slides sont sur mon site](/assets/statics/romain_caneill_2026-10-08_reproducibilite_science_ouverte_logiciels_libres.pdf).
 
 
 [Le code source en Latex est sur gitlab.com](https://gitlab.com/rcaneill/2026-10-08-talk-reseau-recherche-reproductible-reproductibilite-science-ouverte-et-logiciels-libres).
