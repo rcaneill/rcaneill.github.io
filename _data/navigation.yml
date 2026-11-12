@@ -1,0 +1,20 @@
+- name: Home
+  link: /
+
+- name: Blog
+  link: /blog
+
+- name: Contact
+  link: /contact
+
+- name: Open-source projects
+  link: /code
+
+- name: CV
+  link: https://raw.githubusercontent.com/rcaneill/cv/build/cv.pdf
+
+- name: RSS feed
+  link: /feed.xml
+
+- name:  <img src="/assets/images/CC_BY-SA_icon.svg" alt="CC-BY-SA icon"></img>
+  link: https://creativecommons.org/licenses/by-sa/4.0/
